@@ -1,6 +1,6 @@
 "# Временные файлы" 
-"*.log" 
-"*.tmp" 
+"*.log
+"*.tmp
 "temp/" 
 "" 
 "# Файлы Visual Studio" 

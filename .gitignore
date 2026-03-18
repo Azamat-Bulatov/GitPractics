@@ -1,0 +1,8 @@
+"# Временные файлы" 
+"*.log
+"*.tmp
+"temp/" 
+"" 
+"# Файлы Visual Studio" 
+".vs/" 
+"*.user" 
